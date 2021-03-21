@@ -6,7 +6,7 @@ rollup 系列博客代码实例。
 
 1. [为什么选择 rollup](https://xuwenchao.site/blogs/rollup-why.html)
 2. [rollup 基础实践](https://xuwenchao.site/blogs/rollup-basic-practice.html)
-3. [使用 rollup 构建工具库](https://xuwenchao.site/blogs/blogs/rollup-build-library.html)
+3. [使用 rollup 构建工具库](https://xuwenchao.site/blogs/rollup-build-library.html)
 
 ## 快速开始
 
