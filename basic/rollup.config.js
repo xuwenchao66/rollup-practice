@@ -1,16 +1,17 @@
 import { nodeResolve } from '@rollup/plugin-node-resolve'
 import commonjs from '@rollup/plugin-commonjs'
 import { babel } from '@rollup/plugin-babel'
+const dir = 'basic/'
 
 export default {
-  input: 'index.js',
+  input: `${dir}index.js`,
   output: [
     {
-      file: 'dist/index.es.js',
+      file: `${dir}dist/index.es.js`,
       format: 'es'
     },
     {
-      file: 'dist/index.cjs.js',
+      file: `${dir}/dist/index.cjs.js`,
       format: 'cjs'
     }
   ],
