@@ -31,7 +31,6 @@ export default {
       throwOnError: true
     }),
     babel({
-      rootMode: 'upward-optional',
       babelHelpers: 'runtime'
     })
   ]
