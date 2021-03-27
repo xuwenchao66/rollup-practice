@@ -1,4 +1,4 @@
-# rollup-demo
+# rollup-practice
 
 rollup 系列博客代码实例。
 
